@@ -1,0 +1,1 @@
+# ammobin-elasticsearch-fluentd
